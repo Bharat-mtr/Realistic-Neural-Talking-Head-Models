@@ -1,0 +1,5 @@
+outs:
+- md5: cafa2f59cf10de62c57313a8181683f7.dir
+  size: 1359381408
+  nfiles: 1
+  path: model
