@@ -2,6 +2,8 @@
 
 My implementation of Few-Shot Adversarial Learning of Realistic Neural Talking Head Models (Egor Zakharov et al.). https://arxiv.org/abs/1905.08233
 
+[DAGsHub Repository Link](https://dagshub.com/Bharat-mtr/Realistic-Neural-Talking-Head-Models)
+
 ![Fake1](https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models/blob/master/examples/1%201.png "Fake 1")
 ![Real1](https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models/blob/master/examples/1%202.png "Real 1")
 
@@ -60,7 +62,7 @@ The VoxCeleb2 dataset has videos in zip format. (Very heavy 270GB for the dev on
 http://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html
 
 ### 4.Optional, my pretrained weights
-Available at https://drive.google.com/open?id=1vdFz4sh23hC_KIQGJjwbTfUdPG-aYor8
+Available at [DAGsHub Download Link](https://dagshub.com/Bharat-mtr/Realistic-Neural-Talking-Head-Models/src/save_disc/model)
 
 ## How to use:
 - modify paths in params folder to reflect your path
